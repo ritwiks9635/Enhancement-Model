@@ -17,3 +17,4 @@ Some examples of image enhancement techniques include:
 - **Deep neural networks:** Using AI-generated definitions
   
 Image enhancement can be applied to many types of images, including photographs, medical images, and satellite images. 
+
